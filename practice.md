@@ -1,0 +1,1 @@
+this  is example file to see how git works
