@@ -10,3 +10,4 @@ using git push
 
 git diff another usefil command
 another line
+git branch practicefolder  -- will create branch called practicefolder
