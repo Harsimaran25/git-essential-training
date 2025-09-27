@@ -15,3 +15,5 @@ this is a new line
 
 
 to see the hidden .git file use ctrl+shift+p 
+
+lets create a merge conflict . will add some lines in this file and commit changes then will go to Vscode add some lines and try to push it
