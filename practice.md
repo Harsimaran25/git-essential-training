@@ -7,3 +7,5 @@ after that if all looks good we can use git commit to save changes locally
 git commit -m "message or comment"
 then once all is ok u can push the changes to remote repo
 using git push
+
+git diff another usefil command
