@@ -15,3 +15,8 @@ this is a new line
 
 
 to see the hidden .git file use ctrl+shift+p 
+
+
+
+
+adding this line to see merge 
