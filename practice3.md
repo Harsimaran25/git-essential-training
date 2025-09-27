@@ -12,3 +12,6 @@ to track it . so as a convention we create a emptyfile inside it
 called .gitkeep as placeholder to tell team this is important folder
 
 this is a new line
+
+
+to see the hidden .git file use ctrl+shift+p 
